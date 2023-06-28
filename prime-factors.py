@@ -1,3 +1,5 @@
+# script revision for processing prime factorization calls to the ChatGPT API
+
 import os
 import math
 from time import sleep
