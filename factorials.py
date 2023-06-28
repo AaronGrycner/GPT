@@ -6,7 +6,7 @@ from time import sleep
 import openai
 from openpyxl import load_workbook
     
-openai.api_key = "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"
+openai.api_key = "API KEY"
 # openai.api_key = os.getenv("OPENAI_API_KEY")
 
 excel = load_workbook("questions.xlsx") # name of file with responses
