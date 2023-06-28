@@ -1,3 +1,5 @@
+# scripts used for making API requests for factorials to ChatGPT
+
 import os
 import math
 from time import sleep
