@@ -6,7 +6,7 @@ from time import sleep
 import openai
 from openpyxl import load_workbook
     
-openai.api_key = "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"
+openai.api_key="API_KEY"
 # openai.api_key = os.getenv("OPENAI_API_KEY")
 
 
